@@ -1,0 +1,9 @@
+num1=81
+num2=63
+print("The result of ",num1,' + ',num2, 'is =',num1+num2)
+print("The result of ",num1,' - ',num2, 'is =',num1-num2)
+print("The result of ",num1,' * ',num2, 'is =',num1*num2)
+print("The result of ",num1,' / ',num2, 'is =',num1/num2)
+print("The result of ",num1,' ** ',num2, 'is =',num1**num2)
+print("The result of ",num1,' // ',num2, 'is =',num1//num2)
+print("The result of ",num1,' % ',num2, 'is =',num1%num2)
